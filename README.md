@@ -1,0 +1,2 @@
+# datorica
+skola
